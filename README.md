@@ -7,14 +7,20 @@ CC BY-NC-SA
 https://creativecommons.org/licenses/
 
 ## Files
-The models are designed in Fusion 360. You can adapt it if needed.
+Models are designed in Fusion 360. You can adapt them if needed by editing the .f3d files.
+Gcode files are sliced with Cura 4.13.1 for Anycubic Vyper / PLA.
+.stl und .3mf files are also included
 
 ### Exhaustion adapters 
+The adapters for the saws can be connected with the ones for the hoses by screwing them together.
+
+![exhaustion adapter Metabo KGS 254 M v2](https://user-images.githubusercontent.com/50781679/168376340-b1b7de29-44a8-4c86-b1d8-861c63904f2c.jpg)
+
 #### for different cicular saws
   - ELU MH65 
   - Metabo KGS 254 M
   - Einhell TC-TS 2025/2 U
 
-#### aspirator hoses
+#### adapter for aspirator hoses
   - BOSCH GAS 20 L
   - Generic amazon DeClean https://www.amazon.de/gp/product/B010H7KR3K/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
