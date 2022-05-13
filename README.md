@@ -19,6 +19,7 @@ models/aspiration
 The adapters for the saws can be connected with the ones for the hoses by screwing them together.
 
 ![exhaustion adapter Metabo KGS 254 M v2](https://user-images.githubusercontent.com/50781679/168376340-b1b7de29-44a8-4c86-b1d8-861c63904f2c.jpg)
+above: Metabo KGS 254 M with exhaustion adapter screwed into adapter for Generic amazon hose
 
 #### for different cicular saws
   - ELU MH65 
