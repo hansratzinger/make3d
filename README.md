@@ -30,11 +30,12 @@ The adapters for the saws can be connected with the ones for the hoses by screwi
 ![exhaustion adapter Metabo KGS 254 M v2](https://user-images.githubusercontent.com/50781679/168376340-b1b7de29-44a8-4c86-b1d8-861c63904f2c.jpg)
 
 above: Metabo KGS 254 M with exhaustion adapter screwed into adapter for Generic amazon hose
-To fix the adapter change the two screws and use PT-screws 4.2 x 16 instead.
+To fix the adapter replace the two PT 4.2 x 9 screws with PT-screws 4.2 x 16.
 
 #### Einhell TC-TS 2025/2 U
 
 ![CropImage](https://user-images.githubusercontent.com/50781679/168492029-3aacd25b-2145-41b1-a9e7-812dd3871b06.jpg)
+To improve the hold of the adapter on the exhaustion connector of the Einhell use the washer (Dichtungsring) as seen above.
 
 #### ELU MH65 adapter
 
@@ -60,5 +61,4 @@ For the adapters I used PLA from 3DJAKE
 ecoPLA Schwarz https://www.3djake.at/3djake/ecopla-schwarz
 
 For the washer (EINHELL) which has to be flexible I used 
-Recreus
-Filaflex Black https://www.3djake.at/recreus/filaflex-black
+Recreus Filaflex Black https://www.3djake.at/recreus/filaflex-black
