@@ -47,6 +47,7 @@ To improve the hold of the adapter on the exhaustion connector of the Einhell us
 #### BOSCH GAS 20 L
 
 ![CropImage4](https://user-images.githubusercontent.com/50781679/168493201-c11a56b4-1d95-432c-8b64-b91b7f874713.jpg)
+![schlauchadapter](https://user-images.githubusercontent.com/50781679/168493976-1d37e59c-f434-4a76-b19a-25d419e6e7f6.jpg)
 
 #### Generic amazon DeClean https://www.amazon.de/gp/product/B010H7KR3K/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
 
