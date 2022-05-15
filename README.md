@@ -23,12 +23,17 @@ I was looking to improve the exhaustion of dust when I was working with my cirul
 
 The adapters for the saws can be connected with the ones for the hoses by screwing them together.
 
-#### adapters for 
-  - ELU MH65 
-  - Metabo KGS 254 M
-  - Einhell TC-TS 2025/2 U
+#### ELU MH65 adapter
+
+#### Metabo KGS 254 M adapter
+
+#### Einhell TC-TS 2025/2 U adapter
+
 
 #### Metabo KGS 254 M
+
+![Adapter Metabo KGS 254 M](https://user-images.githubusercontent.com/50781679/168492765-9dc16e40-c3da-48b5-9639-3c2beb9f9ca2.jpg)
+
 ![exhaustion adapter Metabo KGS 254 M v2](https://user-images.githubusercontent.com/50781679/168376340-b1b7de29-44a8-4c86-b1d8-861c63904f2c.jpg)
 
 above: Metabo KGS 254 M with exhaustion adapter screwed into adapter for Generic amazon hose
@@ -44,3 +49,15 @@ Please attach the washer to the adapter to tighten the adapter on the exhaustion
 #### adapter for aspirator hoses
   - BOSCH GAS 20 L
   - Generic amazon DeClean https://www.amazon.de/gp/product/B010H7KR3K/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+
+
+### 3D printing
+
+#### Filaments
+
+For the adapters I used PLA from 3DJAKE
+ecoPLA Schwarz https://www.3djake.at/3djake/ecopla-schwarz
+
+For the washer (EINHELL) I used 
+Recreus
+Filaflex Black https://www.3djake.at/recreus/filaflex-black
