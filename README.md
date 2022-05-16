@@ -7,7 +7,7 @@ CC BY-NC-SA
 
 ![CC BY-NC-SA](https://user-images.githubusercontent.com/50781679/168532042-4667170c-5f72-4362-9f58-ba12d1bcf137.jpg)
 
-https://creativecommons.org/licenses/
+![https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
 
 ## Files
 Models are designed in Fusion 360. You can adapt them if needed by editing the .f3d files.
