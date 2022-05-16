@@ -10,7 +10,7 @@ CC BY-NC-SA
 [https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
 
 ## Files
-Models are designed in Fusion 360. You can adapt them if needed by editing the .f3d files.
+Models are designed in [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). You can adapt them if needed by editing the .f3d files.
 
 .gcode files are sliced with Cura 4.13.1 for Anycubic Vyper / PLA.
 
