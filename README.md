@@ -54,7 +54,7 @@ To improve the hold of the adapter on the exhaustion connector of the Einhell us
 
 #### Generic amazon DeClean exhaustion hose
 
-https://www.amazon.de/gp/product/B010H7KR3K/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+![https://www.amazon.de/gp/product/B010H7KR3K/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1](https://www.amazon.de/gp/product/B010H7KR3K/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 
 ![CropImage5](https://user-images.githubusercontent.com/50781679/168493271-3354420b-9dc8-4d6c-af06-99ce47f3e911.jpg)
 
@@ -64,7 +64,7 @@ https://www.amazon.de/gp/product/B010H7KR3K/ref=ppx_yo_dt_b_asin_title_o06_s00?i
 #### Filaments
 
 For the adapters I used PLA from 3DJAKE
-ecoPLA Schwarz https://www.3djake.at/3djake/ecopla-schwarz
+ecoPLA Schwarz ![https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at/3djake/ecopla-schwarz)
 
 For the washer (EINHELL) which has to be flexible I used 
-Recreus Filaflex Black https://www.3djake.at/recreus/filaflex-black
+Recreus Filaflex Black ![https://www.3djake.at/recreus/filaflex-black](https://www.3djake.at/recreus/filaflex-black)
