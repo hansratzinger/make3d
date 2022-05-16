@@ -45,7 +45,7 @@ To improve the hold of the adapter on the exhaustion connector of the Einhell us
 ![CropImage3](https://user-images.githubusercontent.com/50781679/168493102-830e0043-4881-4850-bd0d-25f454318dab.jpg)
 
 
-### adapter for exhaustion hoses
+### Adapters for exhaustion hoses
 
 #### Adapter for BOSCH GAS 20 L exhaustion hose
 
