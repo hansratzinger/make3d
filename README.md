@@ -18,7 +18,7 @@ Models are designed in Fusion 360. You can adapt them if needed by editing the .
 
 Find all files here: 
 
-[https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adapters](https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adapters)
+[https://github.com/hansratzinger/make3d/tree/main/models](https://github.com/hansratzinger/make3d/tree/main/models)
 
 ## Models
 
