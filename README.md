@@ -16,6 +16,10 @@ Models are designed in Fusion 360. You can adapt them if needed by editing the .
 
 .stl und .3mf files are also included
 
+Find all files here: 
+
+[https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adapters](https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adapters)
+
 ## Models
 
 Here you can find 3D models constructed by me for different projects.
