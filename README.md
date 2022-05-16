@@ -4,6 +4,8 @@ Models for 3D printing made for my own sharing with the community
 ## Licence
 all files are published under
 CC BY-NC-SA 
+![CC BY-NC-SA](https://user-images.githubusercontent.com/50781679/168532042-4667170c-5f72-4362-9f58-ba12d1bcf137.jpg)
+
 https://creativecommons.org/licenses/
 
 ## Files
