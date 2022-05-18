@@ -67,11 +67,12 @@ To improve the hold of the adapter on the exhaustion connector of the Einhell us
 
 ![CropImage5](https://user-images.githubusercontent.com/50781679/168493271-3354420b-9dc8-4d6c-af06-99ce47f3e911.jpg)
 
-### ladder end caps
+### Ladder end caps
+
+The brown cap has to be printed with flex filament and the grey cap with PLA. To mount them on the ladder first press the grey cap into the aluminium profile of the ladder and then the brown cap.
 
 ![Ladder end cap - Alu_Leiter_Schuh_mit_Einlage_Kappe](https://user-images.githubusercontent.com/50781679/168982660-06f2e190-4245-4549-9569-27362464f64d.jpg)
 
-The brown cap has to be printed with flex filament and the grey cap with PLA. To mount them on the ladder first press the grey cap into the aluminium profile of the ladder and then the brown cap.
 
 ### 3D printing
 
