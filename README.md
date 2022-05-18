@@ -22,7 +22,12 @@ Find all files here:
 
 ## Models
 
-Here you can find 3D models constructed by me for different projects.
+Here you can find 3D models constructed by me for different projects:
+
+  - exhaustion adapters
+
+  - ladder end caps
+
 
 ### Exhaustion adapters 
 
@@ -62,9 +67,6 @@ To improve the hold of the adapter on the exhaustion connector of the Einhell us
 
 ![CropImage5](https://user-images.githubusercontent.com/50781679/168493271-3354420b-9dc8-4d6c-af06-99ce47f3e911.jpg)
 
-
-### 3D printing
-
 #### Filaments
 
 For the adapters I used PLA from 3DJAKE
@@ -72,3 +74,16 @@ ecoPLA Schwarz [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.
 
 For the washer of the Einhell adapter which has to be flexible I used 
 Recreus Filaflex Black [https://www.3djake.at/recreus/filaflex-black](https://www.3djake.at/recreus/filaflex-black)
+
+
+
+### Ladder end cap
+
+Some of the end caps for my aluminium ladders were lost, therefore I printed some new ones. The profiles of the ladder are 42 x 25 x 1,5 mm of size.
+
+The brown cap has to be printed with flex filament and the grey cap with PLA. To mount them on the ladder first press the grey cap into the aluminium profile of the ladder and then the brown cap.
+
+![Ladder end cap - Alu_Leiter_Schuh_mit_Einlage_Kappe](https://user-images.githubusercontent.com/50781679/168982660-06f2e190-4245-4549-9569-27362464f64d.jpg)
+
+
+
