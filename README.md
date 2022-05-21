@@ -76,7 +76,7 @@ Files: [https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adap
 #### Filaments
 
 For the adapters I used PLA from 3DJAKE
-ecoPLA Schwarz [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at/3djake/ecopla-schwarz)
+ecoPLA black [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at/3djake/ecopla-schwarz)
 
 For the washer of the Einhell adapter which has to be flexible I used 
 Recreus Filaflex Black [https://www.3djake.at/recreus/filaflex-black](https://www.3djake.at/recreus/filaflex-black)
