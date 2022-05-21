@@ -97,7 +97,7 @@ Files: [https://github.com/hansratzinger/make3d/tree/main/models/ladder_end_caps
 #### Filaments
 
 For the end caps I used PLA from 3DJAKE
-ecoPLA Schwarz [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at/3djake/ecopla-schwarz)
+ecoPLA black [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at/3djake/ecopla-schwarz)
 
 For the ladder end cap which has to be flexible I used 
 Recreus Filaflex Black [https://www.3djake.at/recreus/filaflex-black](https://www.3djake.at/recreus/filaflex-black)
@@ -119,4 +119,4 @@ close sketch and select the letters before extruding
 Files: [https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip)
 
 For the chip I used PLA from 3DJAKE
-ecoPLA [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at/3djake/ecopla-schwarz)
+ecoPLA white [https://www.3djake.at/3djake/ecopla-weiss](https://www.3djake.at/3djake/ecopla-weiss)
