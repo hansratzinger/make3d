@@ -10,7 +10,7 @@ CC BY-NC-SA
 [https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
 
 ## Files
-Models are designed in [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). You can adapt them if needed by editing the .f3d files.
+.f3d files - Models are designed in [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). You can adapt them if needed by editing the .f3d files.
 
 .gcode files are sliced with Cura 4.13.1 for Anycubic Vyper / PLA.
 
@@ -27,6 +27,8 @@ Here you can find 3D models constructed by me for different projects:
   - exhaustion adapters
 
   - ladder end caps
+
+  - chip for birthdays, gifts, etc
 
 
 ### Exhaustion adapters 
@@ -54,6 +56,8 @@ To improve the hold of the adapter on the exhaustion connector of the Einhell us
 ![CropImage3](https://user-images.githubusercontent.com/50781679/168493102-830e0043-4881-4850-bd0d-25f454318dab.jpg)
 
 
+Files: ([https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip))[[https://github.com/hansratzinger/make3d/tree/main/models](https://github.com/hansratzinger/make3d/tree/main/models/chip)]
+
 ### Adapters for exhaustion hoses
 
 #### Adapter for BOSCH GAS 20 L exhaustion hose
@@ -67,10 +71,12 @@ To improve the hold of the adapter on the exhaustion connector of the Einhell us
 
 ![CropImage5](https://user-images.githubusercontent.com/50781679/168493271-3354420b-9dc8-4d6c-af06-99ce47f3e911.jpg)
 
+Files: [https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adapters](https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adapters)
+
 #### Filaments
 
 For the adapters I used PLA from 3DJAKE
-ecoPLA Schwarz [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at/3djake/ecopla-schwarz)
+ecoPLA black [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at/3djake/ecopla-schwarz)
 
 For the washer of the Einhell adapter which has to be flexible I used 
 Recreus Filaflex Black [https://www.3djake.at/recreus/filaflex-black](https://www.3djake.at/recreus/filaflex-black)
@@ -86,4 +92,33 @@ The brown cap has to be printed with flex filament and the grey cap with PLA. To
 ![Ladder end cap - Alu_Leiter_Schuh_mit_Einlage_Kappe](https://user-images.githubusercontent.com/50781679/168982660-06f2e190-4245-4549-9569-27362464f64d.jpg)
 
 
+Files: [https://github.com/hansratzinger/make3d/tree/main/models/ladder_end_caps](https://github.com/hansratzinger/make3d/tree/main/models/ladder_end_caps)
 
+#### Filaments
+
+For the end caps I used PLA from 3DJAKE
+ecoPLA black [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at/3djake/ecopla-schwarz)
+
+For the ladder end cap which has to be flexible I used 
+Recreus Filaflex Black [https://www.3djake.at/recreus/filaflex-black](https://www.3djake.at/recreus/filaflex-black)
+
+### chips for birthdays, gifts, etc
+
+![Geburtstags-Jeton](https://user-images.githubusercontent.com/50781679/169652170-7acd8364-2c69-4131-b33b-698a77449390.jpg)
+
+![timeline_fusion](https://user-images.githubusercontent.com/50781679/169653519-d0286fde-e1b9-468d-b92b-0b823ce9fe43.jpg)
+
+####Fusion 360 
+
+To change the text around the chip delete the last scetch and extrusion icon from the timeline. Place an offset line around the chip and click on text. 
+
+![curved_text](https://user-images.githubusercontent.com/50781679/169652497-c2445006-1bb5-407f-830a-dfac24411b79.jpg)
+
+Just click on the kurved text and enter your desired text. 
+click right and select "explode text"
+close sketch and select the letters before extruding
+
+Files: [https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip)
+
+For the chip I used PLA from 3DJAKE
+ecoPLA white [https://www.3djake.at/3djake/ecopla-weiss](https://www.3djake.at/3djake/ecopla-weiss)
