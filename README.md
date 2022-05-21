@@ -108,7 +108,7 @@ Recreus Filaflex Black [https://www.3djake.at/recreus/filaflex-black](https://ww
 
 ![timeline_fusion](https://user-images.githubusercontent.com/50781679/169653519-d0286fde-e1b9-468d-b92b-0b823ce9fe43.jpg)
 
-####Fusion 360 
+#### Fusion 360 
 
 To change the text around the chip delete the last scetch and extrusion icon from the timeline. Place an offset line around the chip and click on text. 
 
