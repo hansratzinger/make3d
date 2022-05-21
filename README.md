@@ -102,7 +102,7 @@ ecoPLA black [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at
 For the ladder end cap which has to be flexible I used 
 Recreus Filaflex Black [https://www.3djake.at/recreus/filaflex-black](https://www.3djake.at/recreus/filaflex-black)
 
-### chips for birthdays, gifts, etc
+### Chips for birthdays, gifts, etc
 
 ![Geburtstags-Jeton](https://user-images.githubusercontent.com/50781679/169652170-7acd8364-2c69-4131-b33b-698a77449390.jpg)
 
