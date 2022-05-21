@@ -28,6 +28,8 @@ Here you can find 3D models constructed by me for different projects:
 
   - ladder end caps
 
+  - chip for birthdays, gifts, etc
+
 
 ### Exhaustion adapters 
 
@@ -53,6 +55,8 @@ To improve the hold of the adapter on the exhaustion connector of the Einhell us
 
 ![CropImage3](https://user-images.githubusercontent.com/50781679/168493102-830e0043-4881-4850-bd0d-25f454318dab.jpg)
 
+
+Files: ([https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip))[[https://github.com/hansratzinger/make3d/tree/main/models](https://github.com/hansratzinger/make3d/tree/main/models/chip)]
 
 ### Adapters for exhaustion hoses
 
@@ -85,5 +89,20 @@ The brown cap has to be printed with flex filament and the grey cap with PLA. To
 
 ![Ladder end cap - Alu_Leiter_Schuh_mit_Einlage_Kappe](https://user-images.githubusercontent.com/50781679/168982660-06f2e190-4245-4549-9569-27362464f64d.jpg)
 
+Files: ([https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip))[[https://github.com/hansratzinger/make3d/tree/main/models](https://github.com/hansratzinger/make3d/tree/main/models/chip)]
 
+### chips for birthdays, gifts, etc
 
+![Geburtstags-Jeton](https://user-images.githubusercontent.com/50781679/169652170-7acd8364-2c69-4131-b33b-698a77449390.jpg)
+
+![timeline_fusion](https://user-images.githubusercontent.com/50781679/169652183-b4b99668-07b7-4b81-9d2d-2bf857a5c114.jpg)
+
+To Change the text around the chip delete the last sceth and extrusion from the timeline. Place an offset line around the chip. 
+
+![curved_text](https://user-images.githubusercontent.com/50781679/169652497-c2445006-1bb5-407f-830a-dfac24411b79.jpg)
+
+Just click on the kurved text and enter your desired text. 
+click right and select "explode text"
+close sketch and select the letters before extruding
+
+Files: ([https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip))[[https://github.com/hansratzinger/make3d/tree/main/models](https://github.com/hansratzinger/make3d/tree/main/models/chip)]
