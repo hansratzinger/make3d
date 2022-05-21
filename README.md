@@ -106,9 +106,9 @@ Recreus Filaflex Black [https://www.3djake.at/recreus/filaflex-black](https://ww
 
 ![Geburtstags-Jeton](https://user-images.githubusercontent.com/50781679/169652170-7acd8364-2c69-4131-b33b-698a77449390.jpg)
 
-![timeline_fusion](https://user-images.githubusercontent.com/50781679/169652183-b4b99668-07b7-4b81-9d2d-2bf857a5c114.jpg)
+![timeline_fusion](https://user-images.githubusercontent.com/50781679/169653519-d0286fde-e1b9-468d-b92b-0b823ce9fe43.jpg)
 
-To Change the text around the chip delete the last sceth and extrusion from the timeline. Place an offset line around the chip. 
+To Change the text around the chip delete the last scetch and extrusion icon from the timeline. Place an offset line around the chip and click on text. 
 
 ![curved_text](https://user-images.githubusercontent.com/50781679/169652497-c2445006-1bb5-407f-830a-dfac24411b79.jpg)
 
@@ -116,9 +116,7 @@ Just click on the kurved text and enter your desired text.
 click right and select "explode text"
 close sketch and select the letters before extruding
 
-Files: ([https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip))[[https://github.com/hansratzinger/make3d/tree/main/models](https://github.com/hansratzinger/make3d/tree/main/models/chip)]
-
-#### Filaments
+Files: [https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip)
 
 For the chip I used PLA from 3DJAKE
 ecoPLA [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at/3djake/ecopla-schwarz)
