@@ -71,6 +71,8 @@ Files: ([https://github.com/hansratzinger/make3d/tree/main/models/chip](https://
 
 ![CropImage5](https://user-images.githubusercontent.com/50781679/168493271-3354420b-9dc8-4d6c-af06-99ce47f3e911.jpg)
 
+Files: ([https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip))[[https://github.com/hansratzinger/make3d/tree/main/models](https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adapters)]
+
 #### Filaments
 
 For the adapters I used PLA from 3DJAKE
@@ -89,7 +91,7 @@ The brown cap has to be printed with flex filament and the grey cap with PLA. To
 
 ![Ladder end cap - Alu_Leiter_Schuh_mit_Einlage_Kappe](https://user-images.githubusercontent.com/50781679/168982660-06f2e190-4245-4549-9569-27362464f64d.jpg)
 
-Files: ([https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip))[[https://github.com/hansratzinger/make3d/tree/main/models](https://github.com/hansratzinger/make3d/tree/main/models/chip)]
+Files: ([https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip))[[https://github.com/hansratzinger/make3d/tree/main/models](https://github.com/hansratzinger/make3d/tree/main/models/ladder_end_caps)]
 
 ### chips for birthdays, gifts, etc
 
