@@ -112,7 +112,7 @@ To change the text around the chip
 
 1. Download [birthday_chip.f3d](https://github.com/hansratzinger/make3d/blob/main/models/chip/birthday_chip.f3d)
 2. Open with Fusion 360
-3. Delete the last scetch and extrusion icon from the timeline. 
+3. Delete the last two icons (scetch and extrusion) from the timeline. 
 4. ![timeline_fusion](https://user-images.githubusercontent.com/50781679/169653519-d0286fde-e1b9-468d-b92b-0b823ce9fe43.jpg)
 5. Place an offset line around the chip where you want to place your curved text.
 6. Create scetch
