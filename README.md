@@ -106,8 +106,6 @@ Recreus Filaflex Black [https://www.3djake.at/recreus/filaflex-black](https://ww
 
 ![Geburtstags-Jeton](https://user-images.githubusercontent.com/50781679/169652170-7acd8364-2c69-4131-b33b-698a77449390.jpg)
 
-![timeline_fusion](https://user-images.githubusercontent.com/50781679/169653519-d0286fde-e1b9-468d-b92b-0b823ce9fe43.jpg)
-
 #### Fusion 360 
 
 To change the text around the chip 
@@ -115,18 +113,19 @@ To change the text around the chip
 1. Download [birthday_chip.f3d](https://github.com/hansratzinger/make3d/blob/main/models/chip/birthday_chip.f3d)
 2. Open with Fusion 360
 3. Delete the last scetch and extrusion icon from the timeline. 
-4. Place an offset line around the chip where you want to place your curved text.
-5. Create scetch
-6. Select text from the create menue
-7. Select text on path
-![text on path](https://user-images.githubusercontent.com/50781679/169652497-c2445006-1bb5-407f-830a-dfac24411b79.jpg)
-8. Select a path for text to follow -> click on the offset line you created
-9. Enter your text and select the height of the text
-10. Close the text menue by pressing OK
-11. Click right and select "Explode Text"
-12. Close scetch
-13. Select every letter of the text 
-14. Extrude the text.
+4. ![timeline_fusion](https://user-images.githubusercontent.com/50781679/169653519-d0286fde-e1b9-468d-b92b-0b823ce9fe43.jpg)
+5. Place an offset line around the chip where you want to place your curved text.
+6. Create scetch
+7. Select text from the create menue
+8. Select text on path
+9. ![text on path](https://user-images.githubusercontent.com/50781679/169652497-c2445006-1bb5-407f-830a-dfac24411b79.jpg)
+10. Select a path for text to follow -> click on the offset line you created
+11. Enter your text and select the height of the text
+12. Close the text menue by pressing OK
+13. Click right and select "Explode Text"
+14. Close scetch
+15. Select every letter of the text 
+16. Extrude the text.
 
 Files: [https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip)
 
