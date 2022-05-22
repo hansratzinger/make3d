@@ -13,6 +13,7 @@ CC BY-NC-SA
 .f3d files - Models are designed in [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). You can adapt them if needed by editing the .f3d files.
 
 .gcode files are sliced with [SuperSlicer](https://github.com/supermerill/SuperSlicer) for [Anycubic Vyper](https://www.anycubic.com/products/anycubic-vyper)
+(the files for the exhaustion adapters are sliced with Cura, but I do recommend now SuperSlicer)
 
 .stl und .3mf files are also included
 
