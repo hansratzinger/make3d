@@ -1,14 +1,6 @@
 # make3d
 Models for 3D printing made for my own sharing with the community
 
-## Licence
-all files are published under
-CC BY-NC-SA 
-
-![CC BY-NC-SA](https://user-images.githubusercontent.com/50781679/168532042-4667170c-5f72-4362-9f58-ba12d1bcf137.jpg)
-
-[https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
-
 ## Files
 .f3d files - Models are designed in [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). You can adapt them if needed by editing the .f3d files.
 
@@ -132,5 +124,13 @@ Files: [https://github.com/hansratzinger/make3d/tree/main/models/chip](https://g
 
 For the chip I used PLA from 3DJAKE
 ecoPLA white [https://www.3djake.at/3djake/ecopla-weiss](https://www.3djake.at/3djake/ecopla-weiss)
+
+## Licence
+all files are published under
+CC BY-NC-SA 
+
+![CC BY-NC-SA](https://user-images.githubusercontent.com/50781679/168532042-4667170c-5f72-4362-9f58-ba12d1bcf137.jpg)
+
+[https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
 
 HR 2022-05-21 
