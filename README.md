@@ -110,15 +110,27 @@ Recreus Filaflex Black [https://www.3djake.at/recreus/filaflex-black](https://ww
 
 #### Fusion 360 
 
-To change the text around the chip delete the last scetch and extrusion icon from the timeline. Place an offset line around the chip and click on text. 
+To change the text around the chip 
 
-![curved_text](https://user-images.githubusercontent.com/50781679/169652497-c2445006-1bb5-407f-830a-dfac24411b79.jpg)
-
-Just click on the kurved text and enter your desired text. 
-click right and select "explode text"
-close sketch and select the letters before extruding
+1. Download [birthday_chip.f3d](https://github.com/hansratzinger/make3d/blob/main/models/chip/birthday_chip.f3d)
+2. Open with Fusion 360
+3. Delete the last scetch and extrusion icon from the timeline. 
+4. Place an offset line around the chip where you want to place your curved text.
+5. Create scetch
+6. Select text from the create menue
+7. Select text on path
+![text on path](https://user-images.githubusercontent.com/50781679/169652497-c2445006-1bb5-407f-830a-dfac24411b79.jpg)
+8. Select a path for text to follow -> click on the offset line you created
+9. Enter your text and select the height of the text
+10. Close the text menue by pressing OK
+11. Click right and select "Explode Text"
+12. Close scetch
+13. Select every letter of the text 
+14. Extrude the text.
 
 Files: [https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip)
 
 For the chip I used PLA from 3DJAKE
 ecoPLA white [https://www.3djake.at/3djake/ecopla-weiss](https://www.3djake.at/3djake/ecopla-weiss)
+
+HR 2022-05-21 
