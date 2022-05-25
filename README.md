@@ -23,6 +23,8 @@ Here you can find 3D models constructed by me for different projects:
 
   - chip for birthdays, gifts, etc
 
+  - flower table
+
 
 ### Exhaustion adapters 
 
@@ -124,6 +126,10 @@ Files: [https://github.com/hansratzinger/make3d/tree/main/models/chip](https://g
 
 For the chip I used PLA from 3DJAKE
 ecoPLA white [https://www.3djake.at/3djake/ecopla-weiss](https://www.3djake.at/3djake/ecopla-weiss)
+
+### Rose plaque
+
+We planted four new rose bushes and to remember the rose variety I printed a rose plaque to stick in the soil.
 
 ## Licence
 all files are published under
