@@ -130,6 +130,11 @@ ecoPLA white [https://www.3djake.at/3djake/ecopla-weiss](https://www.3djake.at/3
 ### Rose plaque
 
 We planted four new rose bushes and to remember the rose variety I printed a rose plaque to stick in the soil.
+![Rosen_Tafel](https://user-images.githubusercontent.com/50781679/170283414-e96feef9-415e-410a-96eb-485834cc871a.jpg)
+G:\Dropbox\Maker\make3d\make3d\models\flower_table
+
+You can find aN unlabelled model here:
+Rose_plaquete_unlabeled.f3d
 
 ## Licence
 all files are published under
