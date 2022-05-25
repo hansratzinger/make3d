@@ -1,18 +1,11 @@
 # make3d
 Models for 3D printing made for my own sharing with the community
 
-## Licence
-all files are published under
-CC BY-NC-SA 
-
-![CC BY-NC-SA](https://user-images.githubusercontent.com/50781679/168532042-4667170c-5f72-4362-9f58-ba12d1bcf137.jpg)
-
-[https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
-
 ## Files
 .f3d files - Models are designed in [Fusion 360](https://www.autodesk.com/products/fusion-360/free-trial). You can adapt them if needed by editing the .f3d files.
 
-.gcode files are sliced with Cura 4.13.1 for Anycubic Vyper / PLA.
+.gcode files are sliced with [SuperSlicer](https://github.com/supermerill/SuperSlicer) for [Anycubic Vyper](https://www.anycubic.com/products/anycubic-vyper)
+(the files for the exhaustion adapters are sliced with Cura, but I do recommend now SuperSlicer)
 
 .stl und .3mf files are also included
 
@@ -29,6 +22,8 @@ Here you can find 3D models constructed by me for different projects:
   - ladder end caps
 
   - chip for birthdays, gifts, etc
+
+  - flower table
 
 
 ### Exhaustion adapters 
@@ -102,23 +97,51 @@ ecoPLA black [https://www.3djake.at/3djake/ecopla-schwarz](https://www.3djake.at
 For the ladder end cap which has to be flexible I used 
 Recreus Filaflex Black [https://www.3djake.at/recreus/filaflex-black](https://www.3djake.at/recreus/filaflex-black)
 
-### chips for birthdays, gifts, etc
+### Chips for birthdays, gifts, etc
 
 ![Geburtstags-Jeton](https://user-images.githubusercontent.com/50781679/169652170-7acd8364-2c69-4131-b33b-698a77449390.jpg)
 
-![timeline_fusion](https://user-images.githubusercontent.com/50781679/169653519-d0286fde-e1b9-468d-b92b-0b823ce9fe43.jpg)
+#### Fusion 360 
 
-####Fusion 360 
+To change the text around the chip 
 
-To change the text around the chip delete the last scetch and extrusion icon from the timeline. Place an offset line around the chip and click on text. 
-
-![curved_text](https://user-images.githubusercontent.com/50781679/169652497-c2445006-1bb5-407f-830a-dfac24411b79.jpg)
-
-Just click on the kurved text and enter your desired text. 
-click right and select "explode text"
-close sketch and select the letters before extruding
+1. Download [birthday_chip.f3d](https://github.com/hansratzinger/make3d/blob/main/models/chip/birthday_chip.f3d)
+2. Open with Fusion 360
+3. Delete the last two icons (scetch and extrusion) from the timeline. 
+ ![timeline_fusion](https://user-images.githubusercontent.com/50781679/169653519-d0286fde-e1b9-468d-b92b-0b823ce9fe43.jpg)
+4. Place an offset line around the chip where you want to place your curved text.
+5. Create scetch
+6. Select text from the create menue
+7. Select text on path 
+![text on path](https://user-images.githubusercontent.com/50781679/169652497-c2445006-1bb5-407f-830a-dfac24411b79.jpg)
+9. Select a path for text to follow -> click on the offset line you created
+10. Enter your text and select the height of the text
+11. Close the text menue by pressing OK
+12. Click right and select "Explode Text"
+13. Close scetch
+14. Select every letter of the text 
+15. Extrude the text.
 
 Files: [https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip)
 
 For the chip I used PLA from 3DJAKE
 ecoPLA white [https://www.3djake.at/3djake/ecopla-weiss](https://www.3djake.at/3djake/ecopla-weiss)
+
+### Rose plaque
+
+We planted four new rose bushes and to remember the rose variety I printed a rose plaque to stick in the soil.
+![Rosen_Tafel](https://user-images.githubusercontent.com/50781679/170283414-e96feef9-415e-410a-96eb-485834cc871a.jpg)
+G:\Dropbox\Maker\make3d\make3d\models\flower_table
+
+You can find aN unlabelled model here:
+Rose_plaquete_unlabeled.f3d
+
+## Licence
+all files are published under
+CC BY-NC-SA 
+
+![CC BY-NC-SA](https://user-images.githubusercontent.com/50781679/168532042-4667170c-5f72-4362-9f58-ba12d1bcf137.jpg)
+
+[https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
+
+HR 2022-05-21 
