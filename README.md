@@ -129,7 +129,8 @@ ecoPLA white [https://www.3djake.at/3djake/ecopla-weiss](https://www.3djake.at/3
 
 ### Rose plaque
 
-We planted four new rose bushes and to remember the rose variety I printed a rose plaque to stick in the soil.
+We planted four new rose bushes and to remember the name of the roses I printed a bunch of rose badges to stick them into the soil.
+
 ![Rosen_Tafel](https://user-images.githubusercontent.com/50781679/170283414-e96feef9-415e-410a-96eb-485834cc871a.jpg)
 
 You can find an unlabelled model here:
