@@ -144,7 +144,7 @@ After one year exposed to sun and cold it looks like new.
 
 ### Connection adaptor for rain drain pipe
 
-A friend of mine renovated his house and looked for a solution to connect the old square shaped rain gutter with a circular shaped new drain pipe. For slicing you have to turn the model upside down to fix it properly on the plate.  
+A friend of mine renovated his house and looked for a solution to connect the old square shaped rain gutter with a circular shaped new drain pipe. For slicing you have to turn the model upside down to fasten it properly on the plate.  
 
 ![grafik](https://github.com/hansratzinger/make3d/assets/50781679/2ab85c8d-fe42-4eac-9481-6242efbca03f)  
 Filament ***PETG*** as descripted above.  
