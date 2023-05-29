@@ -29,7 +29,7 @@ Here you can find 3D models constructed by me for different projects:
 
 - Connection adaptor for rain drain pipe
 
-- QWIRKLE stand
+- Stand for QWIRKLE-tiles
 
 ### Exhaustion adapters
 
@@ -139,7 +139,7 @@ You can find an unlabelled model here:
 
 #### Printing
 Looking for an easy to print and temperature and uv-light resistant filament I found out that ***PETG*** fits all my needs.  
-I used [https://www.3djake.at/3djake/petg-schwarz-1](https://www.3djake.at/3djake/petg-schwarz-1). Temperature 240/75 C on first layer then 235/72 C, shrinkage 1,2% no fan for the firt 3 layers.  
+I used [https://www.3djake.at/3djake/petg-schwarz-1](https://www.3djake.at/3djake/petg-schwarz-1). Temperature 240/75 C on first layer then 235/72 C, shrinkage 1,2% no fan for the first 3 layers.  
 After one year exposed to sun and cold it looks like new.
 
 ### Connection adaptor for rain drain pipe
