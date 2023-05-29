@@ -135,12 +135,15 @@ We planted four new rose bushes and to remember the name of the roses I printed 
 You can find an unlabelled model here:
 [Rose_plaquete_unlabeled.f3d](https://github.com/hansratzinger/make3d/blob/main/models/rose_badge/)
 
-### QWIRKLE stand
+### Stand for QWIRKLE-tiles
 
-We very much like to play [QWIRKLE](https://en.wikipedia.org/wiki/Qwirkle). On this stand you can place your 6 QWIRKLE tiles.
-![qwirkle-stand](https://github.com/hansratzinger/make3d/assets/50781679/b1c04acb-93b3-45a0-ae22-fc4a85c64ebd)
+We very much like to play [QWIRKLE](https://en.wikipedia.org/wiki/Qwirkle)\*.  
+On this stand you can place your 6 QWIRKLE-tiles.
+![Stand](https://github.com/hansratzinger/make3d/assets/50781679/b1c04acb-93b3-45a0-ae22-fc4a85c64ebd)
 
-Files: [qwirkle-stand](https://github.com/hansratzinger/make3d/tree/main/models/qwirkle_stand)
+Files: [Stand](https://github.com/hansratzinger/make3d/tree/main/models/qwirkle_stand)  
+  
+##### \* QWIRKLE is a trademark of MINDWARE CORPORATION
 
 ## Licence
 
@@ -151,4 +154,4 @@ CC BY-NC-SA
 
 [https://creativecommons.org/licenses/](https://creativecommons.org/licenses/)
 
-HR 2022-05-21
+HR 2023-05-29
