@@ -138,8 +138,7 @@ You can find an unlabelled model here:
 ### QWIRKLE stand
 
 We very much like to play [QWIRKLE](https://en.wikipedia.org/wiki/Qwirkle). On this stand you can place your 6 QWIRKLE tiles.
-
-![qwirkle-stand](https://github.com/hansratzinger/make3d/assets/50781679/4771cfc5-7d9f-44ef-9e84-ac587c0b514b)
+![qwirkle-stand](https://github.com/hansratzinger/make3d/assets/50781679/b1c04acb-93b3-45a0-ae22-fc4a85c64ebd)
 
 Files: [qwirkle-stand](https://github.com/hansratzinger/make3d/tree/main/models/qwirkle_stand)
 
