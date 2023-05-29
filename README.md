@@ -70,7 +70,9 @@ Files: ([https://github.com/hansratzinger/make3d/tree/main/models/chip](https://
 
 ![CropImage5](https://user-images.githubusercontent.com/50781679/168493271-3354420b-9dc8-4d6c-af06-99ce47f3e911.jpg)
 
-#### Files: [https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adapters](https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adapters)
+#### Files
+
+[https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adapters](https://github.com/hansratzinger/make3d/tree/main/models/exhaustion_adapters)
 
 #### Filaments
 
@@ -88,7 +90,9 @@ The brown cap has to be printed with flex filament and the grey cap with PLA. To
 
 ![Ladder end cap - Alu_Leiter_Schuh_mit_Einlage_Kappe](https://user-images.githubusercontent.com/50781679/168982660-06f2e190-4245-4549-9569-27362464f64d.jpg)
 
-#### Files: [https://github.com/hansratzinger/make3d/tree/main/models/ladder_end_caps](https://github.com/hansratzinger/make3d/tree/main/models/ladder_end_caps)
+#### Files  
+
+[https://github.com/hansratzinger/make3d/tree/main/models/ladder_end_caps](https://github.com/hansratzinger/make3d/tree/main/models/ladder_end_caps)
 
 #### Filaments
 
@@ -123,7 +127,9 @@ To change the text around the chip
 14. Select every letter of the text
 15. Extrude the text.
 
-#### Files: [https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip)
+#### Files  
+
+[https://github.com/hansratzinger/make3d/tree/main/models/chip](https://github.com/hansratzinger/make3d/tree/main/models/chip)
 
 For the chip I used PLA from 3DJAKE
 ecoPLA white [https://www.3djake.at/3djake/ecopla-weiss](https://www.3djake.at/3djake/ecopla-weiss)
@@ -133,11 +139,14 @@ ecoPLA white [https://www.3djake.at/3djake/ecopla-weiss](https://www.3djake.at/3
 We planted four new rose bushes and to remember the name of the roses I printed a bunch of rose badges to stick them into the soil.
 
 ![Rosen_Tafel](https://user-images.githubusercontent.com/50781679/170283414-e96feef9-415e-410a-96eb-485834cc871a.jpg)
-#### Files:
+
+#### Files  
+
 You can find an unlabelled model here:
 [Rose_plaquete_unlabeled.f3d](https://github.com/hansratzinger/make3d/blob/main/models/rose_badge/)
 
 #### Printing
+
 Looking for an easy to print and temperature and uv-light resistant filament I found out that ***PETG*** fits all my needs.  
 I used [https://www.3djake.at/3djake/petg-schwarz-1](https://www.3djake.at/3djake/petg-schwarz-1). Temperature 240/75 C on first layer then 235/72 C, shrinkage 1,2% no fan for the first 3 layers.  
 After one year exposed to sun and cold it looks like new.
@@ -153,7 +162,8 @@ After printing you have to remove the square plate.
 
 ![grafik](https://github.com/hansratzinger/make3d/assets/50781679/b6a6d09b-f174-4d04-af95-77623a94e94b)  
 
-#### Files: https://github.com/hansratzinger/make3d/tree/main/models/gutter
+#### Files  
+<https://github.com/hansratzinger/make3d/tree/main/models/gutter>
 
 ### Stand for QWIRKLE-tiles
 
@@ -161,7 +171,9 @@ We very much like to play [QWIRKLE](https://en.wikipedia.org/wiki/Qwirkle)\*.
 On this stand you can place your 6 QWIRKLE-tiles.  
 ![Stand](https://github.com/hansratzinger/make3d/assets/50781679/b1c04acb-93b3-45a0-ae22-fc4a85c64ebd)
 
-#### Files: [Stand](https://github.com/hansratzinger/make3d/tree/main/models/stand)  
+#### Files  
+
+[Stand](https://github.com/hansratzinger/make3d/tree/main/models/stand)  
   
 ##### \* QWIRKLE is a trademark of MINDWARE CORPORATION
 
