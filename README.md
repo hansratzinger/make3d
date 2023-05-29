@@ -141,7 +141,7 @@ We very much like to play [QWIRKLE](https://en.wikipedia.org/wiki/Qwirkle)\*.
 On this stand you can place your 6 QWIRKLE-tiles.
 ![Stand](https://github.com/hansratzinger/make3d/assets/50781679/b1c04acb-93b3-45a0-ae22-fc4a85c64ebd)
 
-Files: [Stand](https://github.com/hansratzinger/make3d/tree/main/models/qwirkle_stand)  
+Files: [Stand](https://github.com/hansratzinger/make3d/tree/main/models/stand)  
   
 ##### \* QWIRKLE is a trademark of MINDWARE CORPORATION
 
