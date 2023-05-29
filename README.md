@@ -153,7 +153,7 @@ After printing you have to remove the square plate.
 
 ![grafik](https://github.com/hansratzinger/make3d/assets/50781679/b6a6d09b-f174-4d04-af95-77623a94e94b)  
 
-#### Files: [gutter](https://github.com/hansratzinger/make3d/tree/main/gutter)   
+#### Files: https://github.com/hansratzinger/make3d/tree/main/models/gutter
 
 ### Stand for QWIRKLE-tiles
 
